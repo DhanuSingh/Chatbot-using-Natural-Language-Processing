@@ -1,1 +1,2 @@
 # Chatbot-using-Natural-Language-Processing
+The project is aimed at developing a chatbot using tensorflow. Two machine learning models were built to accomplish this task. First, a word 2 vector model was implemented using Recurrent Neural Networks. Thereafter these vectors were given as input to the second model. The second model is a sequence 2 sequence model developed using recurrent neural network. It takes in word vectors as inputs and predicts a response. In this way the chat bot was trained and tested.
